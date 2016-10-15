@@ -52,9 +52,9 @@ h1, h2 {
 
 .profile-card {
   height: 305px;
-  width: 600px;
+  width: auto;
   position: relative;
-  margin: 4em auto;
+  margin: 1em auto;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
